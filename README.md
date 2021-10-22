@@ -1,3 +1,3 @@
-# Docker LEMP
+# Docker RoadRunner Laravel template
 
-Configured LEMP for Laravel projects
+Configured roadrunner for Laravel projects
